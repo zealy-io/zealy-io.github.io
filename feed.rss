@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Zealy | Official Site</title>
+		<link><![CDATA[https://zealy-io.github.io]]></link>
+		<description>Zealy helps web3 (and web2) companies engage with their communities by giving them tasks that they can achieve in exchange for various rewards.</description>
+		<language>en</language>
+		<pubDate>Tue, 20 Jun 2023 11:48:03 +0000</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item>
+			<guid isPermaLink="false">60596</guid>
+			<title>Zealy | Home</title>
+			<link>https://zealy-io.github.io/cryptocurrency-prices.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Zealy helps web3 (and web2) companies engage with their communities by giving them tasks that they can achieve in exchange for various rewards.</description>
+			<pubDate>Tue, 20 Jun 2023 11:36:32 GMT</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">1249371987</guid>
+			<title>Zealy | Official Site</title>
+			<link>https://zealy-io.github.io/exchange.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Zealy helps web3 (and web2) companies engage with their communities by giving them tasks that they can achieve in exchange for various rewards.</description>
+			<pubDate>Tue, 20 Jun 2023 11:36:32 GMT</pubDate>
+			<enclosure url="https://zealy-io.github.io/img/123958.005.jpg" type="image/jpeg" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">4208966112</guid>
+			<title>Zealy | Contacts</title>
+			<link>https://zealy-io.github.io/contacts.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Zealy helps web3 (and web2) companies engage with their communities by giving them tasks that they can achieve in exchange for various rewards.</description>
+			<pubDate>Tue, 20 Jun 2023 11:36:32 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
